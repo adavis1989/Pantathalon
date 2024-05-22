@@ -96,6 +96,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: be2911572dc3afa448d24b4e97edc5f1, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 136755a150e6fbb43aa7b931ca64e08b, type: 2}
     - target: {fileID: 919132149155446097, guid: be2911572dc3afa448d24b4e97edc5f1, type: 3}
       propertyPath: m_Name
       value: Reticle_Torus
@@ -170,6 +174,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -45
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ab3a79eba4de4be0ad5fead9fb858190, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 136755a150e6fbb43aa7b931ca64e08b, type: 2}
     - target: {fileID: 919132149155446097, guid: ab3a79eba4de4be0ad5fead9fb858190, type: 3}
       propertyPath: m_Name
       value: Primitive_Wedge
